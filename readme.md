@@ -1,6 +1,6 @@
 
 # Pokedex
-![Pokedex](https://logodownload.org/wp-content/uploads/2017/08/pokemon-logo-1.png)
+![Pokedex](https://vignette.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest/scale-to-width-down/340?cb=20131224014121&path-prefix=pt-br)
 
 
 Projeto simples consumindo a API [pokeapi.co](https://pokeapi.co/).
